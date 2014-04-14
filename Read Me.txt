@@ -1,0 +1,1 @@
+copy the jar to your jre/ lib folder and the jre/lib/ext
